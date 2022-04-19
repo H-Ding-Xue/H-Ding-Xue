@@ -302,17 +302,17 @@ body {
     margin-bottom: 2rem;
  }
  .project-one{
-    background-image: url('images/projImg1.jpg');
+    background-image: url('../images/projImg1.jpg');
     background-size: 100% 135%;
  }
 
  .project-two{
-    background-image: url('images/projImg2.jpg');
+    background-image: url('../images/projImg2.jpg');
     background-size: 100% 100%; 
  }
 
  .project-three{
-    background-image: url('images/projImg3.jpg');
+    background-image: url('../images/projImg3.jpg');
     background-size: 100% 100%; 
  }
 
