@@ -378,7 +378,7 @@ body {
         grid-template-columns: auto auto auto;
     }
     .project{
-        margin: 0 3rem 0 3rem;
+        margin: 0 2rem 0 2rem;
     }
     .project:nth-child(-n+2){
         margin-bottom: 0;
